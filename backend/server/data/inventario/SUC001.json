@@ -1,0 +1,286 @@
+{
+  "sucursal_id": "SUC001",
+  "nombre": "Hipermaxi - Circunvalación",
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Leche Entera 1L",
+      "precio": 8.5,
+      "categoria": "lacteos",
+      "importancia": 0.9,
+      "cantidad_tipica": 2
+    },
+    {
+      "id": 2,
+      "nombre": "Pan Integral 500g",
+      "precio": 5.0,
+      "categoria": "panaderia",
+      "importancia": 0.85,
+      "cantidad_tipica": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Arroz Blanco 1kg",
+      "precio": 12.0,
+      "categoria": "granos",
+      "importancia": 0.8,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Aceite Vegetal 1L",
+      "precio": 15.0,
+      "categoria": "aceites",
+      "importancia": 0.75,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Huevos x12",
+      "precio": 18.0,
+      "categoria": "lacteos",
+      "importancia": 0.9,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 6,
+      "nombre": "Pasta Espagueti 500g",
+      "precio": 6.5,
+      "categoria": "granos",
+      "importancia": 0.7,
+      "cantidad_tipica": 2
+    },
+    {
+      "id": 7,
+      "nombre": "Azúcar 1kg",
+      "precio": 10.0,
+      "categoria": "endulzantes",
+      "importancia": 0.75,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 8,
+      "nombre": "Sal 1kg",
+      "precio": 3.5,
+      "categoria": "condimentos",
+      "importancia": 0.8,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 9,
+      "nombre": "Detergente Líquido 1L",
+      "precio": 22.0,
+      "categoria": "limpieza",
+      "importancia": 0.7,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 10,
+      "nombre": "Papel Higiénico x4",
+      "precio": 16.0,
+      "categoria": "limpieza",
+      "importancia": 0.85,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 11,
+      "nombre": "Jabón de Tocador x3",
+      "precio": 9.0,
+      "categoria": "limpieza",
+      "importancia": 0.75,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 12,
+      "nombre": "Yogurt Natural 1L",
+      "precio": 11.0,
+      "categoria": "lacteos",
+      "importancia": 0.6,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 13,
+      "nombre": "Queso Fresco 500g",
+      "precio": 25.0,
+      "categoria": "lacteos",
+      "importancia": 0.65,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 14,
+      "nombre": "Carne Molida 500g",
+      "precio": 35.0,
+      "categoria": "carnes",
+      "importancia": 0.7,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 15,
+      "nombre": "Pollo Entero 1.5kg",
+      "precio": 40.0,
+      "categoria": "carnes",
+      "importancia": 0.75,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 16,
+      "nombre": "Tomate 1kg",
+      "precio": 7.0,
+      "categoria": "verduras",
+      "importancia": 0.7,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 17,
+      "nombre": "Cebolla 1kg",
+      "precio": 6.0,
+      "categoria": "verduras",
+      "importancia": 0.75,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 18,
+      "nombre": "Papa 2kg",
+      "precio": 10.0,
+      "categoria": "verduras",
+      "importancia": 0.8,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 19,
+      "nombre": "Manzanas 1kg",
+      "precio": 14.0,
+      "categoria": "frutas",
+      "importancia": 0.6,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 20,
+      "nombre": "Plátanos 1kg",
+      "precio": 8.0,
+      "categoria": "frutas",
+      "importancia": 0.65,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 21,
+      "nombre": "Naranja 1kg",
+      "precio": 9.0,
+      "categoria": "frutas",
+      "importancia": 0.6,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 22,
+      "nombre": "Atún en Lata x3",
+      "precio": 20.0,
+      "categoria": "enlatados",
+      "importancia": 0.65,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 23,
+      "nombre": "Frijoles Negros 500g",
+      "precio": 8.0,
+      "categoria": "granos",
+      "importancia": 0.7,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 24,
+      "nombre": "Café Molido 250g",
+      "precio": 18.0,
+      "categoria": "bebidas",
+      "importancia": 0.7,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 25,
+      "nombre": "Jugo Natural 1L",
+      "precio": 12.0,
+      "categoria": "bebidas",
+      "importancia": 0.5,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 26,
+      "nombre": "Galletas Saladas 200g",
+      "precio": 7.0,
+      "categoria": "snacks",
+      "importancia": 0.4,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 27,
+      "nombre": "Chocolate en Barra 100g",
+      "precio": 6.0,
+      "categoria": "caramelos",
+      "importancia": 0.3,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 28,
+      "nombre": "Caramelos Surtidos 500g",
+      "precio": 10.0,
+      "categoria": "caramelos",
+      "importancia": 0.3,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 29,
+      "nombre": "Servilletas x100",
+      "precio": 8.0,
+      "categoria": "limpieza",
+      "importancia": 0.65,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 30,
+      "nombre": "Cloro 1L",
+      "precio": 12.0,
+      "categoria": "limpieza",
+      "importancia": 0.6,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 31,
+      "nombre": "Mantequilla 250g",
+      "precio": 14.0,
+      "categoria": "lacteos",
+      "importancia": 0.6,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 32,
+      "nombre": "Harina de Trigo 1kg",
+      "precio": 9.0,
+      "categoria": "granos",
+      "importancia": 0.65,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 33,
+      "nombre": "Salsa de Tomate 500g",
+      "precio": 8.5,
+      "categoria": "condimentos",
+      "importancia": 0.55,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 34,
+      "nombre": "Mayonesa 500g",
+      "precio": 13.0,
+      "categoria": "condimentos",
+      "importancia": 0.5,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 35,
+      "nombre": "Cereal 500g",
+      "precio": 20.0,
+      "categoria": "desayuno",
+      "importancia": 0.55,
+      "cantidad_tipica": 1
+    }
+  ]
+}
