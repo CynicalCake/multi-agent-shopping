@@ -1,0 +1,310 @@
+{
+  "sucursal_id": "SUC003",
+  "nombre": "Hipermaxi - Recoleta",
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Leche Descremada 1L",
+      "precio": 9.71,
+      "categoria": "lacteos",
+      "importancia": 0.85,
+      "cantidad_tipica": 2
+    },
+    {
+      "id": 2,
+      "nombre": "Pan Francés x6",
+      "precio": 4.78,
+      "categoria": "panaderia",
+      "importancia": 0.9,
+      "cantidad_tipica": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Arroz Integral 1kg",
+      "precio": 13.86,
+      "categoria": "granos",
+      "importancia": 0.75,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Aceite de Oliva 500ml",
+      "precio": 27.53,
+      "categoria": "aceites",
+      "importancia": 0.6,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Huevos Orgánicos x12",
+      "precio": 23.02,
+      "categoria": "lacteos",
+      "importancia": 0.85,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 6,
+      "nombre": "Pasta Penne 500g",
+      "precio": 7.25,
+      "categoria": "granos",
+      "importancia": 0.7,
+      "cantidad_tipica": 2
+    },
+    {
+      "id": 7,
+      "nombre": "Azúcar Morena 1kg",
+      "precio": 12.53,
+      "categoria": "endulzantes",
+      "importancia": 0.7,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 8,
+      "nombre": "Sal Marina 500g",
+      "precio": 5.38,
+      "categoria": "condimentos",
+      "importancia": 0.75,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 9,
+      "nombre": "Detergente en Polvo 1kg",
+      "precio": 18.78,
+      "categoria": "limpieza",
+      "importancia": 0.7,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 10,
+      "nombre": "Papel Higiénico x6",
+      "precio": 23.66,
+      "categoria": "limpieza",
+      "importancia": 0.8,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 11,
+      "nombre": "Jabón Líquido 500ml",
+      "precio": 14.43,
+      "categoria": "limpieza",
+      "importancia": 0.7,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 12,
+      "nombre": "Yogurt Griego 500ml",
+      "precio": 16.88,
+      "categoria": "lacteos",
+      "importancia": 0.6,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 13,
+      "nombre": "Queso Mozzarella 400g",
+      "precio": 31.83,
+      "categoria": "lacteos",
+      "importancia": 0.6,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 14,
+      "nombre": "Carne de Res 500g",
+      "precio": 46.44,
+      "categoria": "carnes",
+      "importancia": 0.7,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 15,
+      "nombre": "Pechuga de Pollo 1kg",
+      "precio": 40.77,
+      "categoria": "carnes",
+      "importancia": 0.75,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 16,
+      "nombre": "Tomate Cherry 500g",
+      "precio": 10.14,
+      "categoria": "verduras",
+      "importancia": 0.55,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 17,
+      "nombre": "Cebolla Morada 1kg",
+      "precio": 6.76,
+      "categoria": "verduras",
+      "importancia": 0.7,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 18,
+      "nombre": "Papa Amarilla 2kg",
+      "precio": 12.63,
+      "categoria": "verduras",
+      "importancia": 0.75,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 19,
+      "nombre": "Manzanas Verdes 1kg",
+      "precio": 17.26,
+      "categoria": "frutas",
+      "importancia": 0.6,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 20,
+      "nombre": "Plátanos Maduros 1kg",
+      "precio": 8.46,
+      "categoria": "frutas",
+      "importancia": 0.65,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 21,
+      "nombre": "Mandarinas 1kg",
+      "precio": 11.29,
+      "categoria": "frutas",
+      "importancia": 0.6,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 22,
+      "nombre": "Sardinas en Lata x3",
+      "precio": 16.71,
+      "categoria": "enlatados",
+      "importancia": 0.6,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 23,
+      "nombre": "Lentejas 500g",
+      "precio": 8.93,
+      "categoria": "granos",
+      "importancia": 0.7,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 24,
+      "nombre": "Té Verde x25",
+      "precio": 16.11,
+      "categoria": "bebidas",
+      "importancia": 0.5,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 25,
+      "nombre": "Agua Mineral 2L",
+      "precio": 5.2,
+      "categoria": "bebidas",
+      "importancia": 0.7,
+      "cantidad_tipica": 2
+    },
+    {
+      "id": 26,
+      "nombre": "Galletas de Avena 250g",
+      "precio": 8.59,
+      "categoria": "snacks",
+      "importancia": 0.45,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 27,
+      "nombre": "Chocolate Amargo 100g",
+      "precio": 7.82,
+      "categoria": "caramelos",
+      "importancia": 0.35,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 28,
+      "nombre": "Gomitas Frutales 400g",
+      "precio": 12.04,
+      "categoria": "caramelos",
+      "importancia": 0.3,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 29,
+      "nombre": "Toallas de Papel x2",
+      "precio": 9.21,
+      "categoria": "limpieza",
+      "importancia": 0.6,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 30,
+      "nombre": "Desinfectante 1L",
+      "precio": 14.14,
+      "categoria": "limpieza",
+      "importancia": 0.65,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 31,
+      "nombre": "Crema de Leche 200ml",
+      "precio": 10.68,
+      "categoria": "lacteos",
+      "importancia": 0.5,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 32,
+      "nombre": "Harina Integral 1kg",
+      "precio": 11.81,
+      "categoria": "granos",
+      "importancia": 0.6,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 33,
+      "nombre": "Salsa Picante 200ml",
+      "precio": 7.32,
+      "categoria": "condimentos",
+      "importancia": 0.4,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 34,
+      "nombre": "Mostaza 300g",
+      "precio": 8.92,
+      "categoria": "condimentos",
+      "importancia": 0.45,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 35,
+      "nombre": "Granola 400g",
+      "precio": 22.49,
+      "categoria": "desayuno",
+      "importancia": 0.5,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 36,
+      "nombre": "Mermelada de Fresa 350g",
+      "precio": 13.1,
+      "categoria": "desayuno",
+      "importancia": 0.5,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 37,
+      "nombre": "Miel de Abeja 250ml",
+      "precio": 23.97,
+      "categoria": "endulzantes",
+      "importancia": 0.45,
+      "cantidad_tipica": 1
+    },
+    {
+      "id": 38,
+      "nombre": "Avena 500g",
+      "precio": 7.54,
+      "categoria": "desayuno",
+      "importancia": 0.7,
+      "cantidad_tipica": 1
+    }
+  ]
+}

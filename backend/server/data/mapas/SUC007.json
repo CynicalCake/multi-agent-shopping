@@ -1,0 +1,1313 @@
+{
+  "sucursal_id": "SUC007",
+  "nombre": "Hipermaxi - Torres Sofer (Oquendo)",
+  "dimensiones": {
+    "filas": 20,
+    "columnas": 32
+  },
+  "entrada": {
+    "fila": 0,
+    "columna": 16,
+    "tipo": "entrada"
+  },
+  "caja": {
+    "fila": 19,
+    "columna": 16,
+    "tipo": "caja"
+  },
+  "zonas_productos": {
+    "lacteos": {
+      "fila": 3,
+      "columna": 6,
+      "productos": [
+        1,
+        5,
+        12,
+        13,
+        31
+      ]
+    },
+    "panaderia": {
+      "fila": 1,
+      "columna": 23,
+      "productos": [
+        2
+      ]
+    },
+    "granos": {
+      "fila": 5,
+      "columna": 8,
+      "productos": [
+        3,
+        6,
+        23,
+        32
+      ]
+    },
+    "aceites": {
+      "fila": 6,
+      "columna": 22,
+      "productos": [
+        4
+      ]
+    },
+    "endulzantes": {
+      "fila": 7,
+      "columna": 5,
+      "productos": [
+        7,
+        37
+      ]
+    },
+    "condimentos": {
+      "fila": 7,
+      "columna": 26,
+      "productos": [
+        8,
+        33,
+        34
+      ]
+    },
+    "limpieza": {
+      "fila": 14,
+      "columna": 26,
+      "productos": [
+        9,
+        10,
+        11,
+        29,
+        30
+      ]
+    },
+    "carnes": {
+      "fila": 11,
+      "columna": 16,
+      "productos": [
+        14,
+        15
+      ]
+    },
+    "verduras": {
+      "fila": 12,
+      "columna": 7,
+      "productos": [
+        16,
+        17,
+        18
+      ]
+    },
+    "frutas": {
+      "fila": 12,
+      "columna": 24,
+      "productos": [
+        19,
+        20,
+        21
+      ]
+    },
+    "enlatados": {
+      "fila": 9,
+      "columna": 9,
+      "productos": [
+        22
+      ]
+    },
+    "bebidas": {
+      "fila": 15,
+      "columna": 16,
+      "productos": [
+        24,
+        25
+      ]
+    },
+    "snacks": {
+      "fila": 9,
+      "columna": 22,
+      "productos": [
+        26
+      ]
+    },
+    "caramelos": {
+      "fila": 4,
+      "columna": 16,
+      "productos": [
+        27,
+        28
+      ]
+    },
+    "desayuno": {
+      "fila": 2,
+      "columna": 8,
+      "productos": [
+        35,
+        36,
+        38
+      ]
+    }
+  },
+  "obstaculos": [
+    {
+      "fila": 2,
+      "columna": 4,
+      "tipo": "estante"
+    },
+    {
+      "fila": 2,
+      "columna": 5,
+      "tipo": "estante"
+    },
+    {
+      "fila": 2,
+      "columna": 9,
+      "tipo": "estante"
+    },
+    {
+      "fila": 2,
+      "columna": 10,
+      "tipo": "estante"
+    },
+    {
+      "fila": 2,
+      "columna": 14,
+      "tipo": "estante"
+    },
+    {
+      "fila": 2,
+      "columna": 19,
+      "tipo": "estante"
+    },
+    {
+      "fila": 2,
+      "columna": 20,
+      "tipo": "estante"
+    },
+    {
+      "fila": 2,
+      "columna": 24,
+      "tipo": "estante"
+    },
+    {
+      "fila": 2,
+      "columna": 25,
+      "tipo": "estante"
+    },
+    {
+      "fila": 3,
+      "columna": 4,
+      "tipo": "estante"
+    },
+    {
+      "fila": 3,
+      "columna": 5,
+      "tipo": "estante"
+    },
+    {
+      "fila": 3,
+      "columna": 7,
+      "tipo": "estante"
+    },
+    {
+      "fila": 3,
+      "columna": 8,
+      "tipo": "estante"
+    },
+    {
+      "fila": 3,
+      "columna": 9,
+      "tipo": "estante"
+    },
+    {
+      "fila": 3,
+      "columna": 10,
+      "tipo": "estante"
+    },
+    {
+      "fila": 3,
+      "columna": 14,
+      "tipo": "estante"
+    },
+    {
+      "fila": 3,
+      "columna": 19,
+      "tipo": "estante"
+    },
+    {
+      "fila": 3,
+      "columna": 20,
+      "tipo": "estante"
+    },
+    {
+      "fila": 3,
+      "columna": 21,
+      "tipo": "estante"
+    },
+    {
+      "fila": 3,
+      "columna": 22,
+      "tipo": "estante"
+    },
+    {
+      "fila": 3,
+      "columna": 24,
+      "tipo": "estante"
+    },
+    {
+      "fila": 3,
+      "columna": 25,
+      "tipo": "estante"
+    },
+    {
+      "fila": 3,
+      "columna": 28,
+      "tipo": "estante"
+    },
+    {
+      "fila": 3,
+      "columna": 29,
+      "tipo": "estante"
+    },
+    {
+      "fila": 4,
+      "columna": 4,
+      "tipo": "estante"
+    },
+    {
+      "fila": 4,
+      "columna": 5,
+      "tipo": "estante"
+    },
+    {
+      "fila": 4,
+      "columna": 7,
+      "tipo": "estante"
+    },
+    {
+      "fila": 4,
+      "columna": 8,
+      "tipo": "estante"
+    },
+    {
+      "fila": 4,
+      "columna": 9,
+      "tipo": "estante"
+    },
+    {
+      "fila": 4,
+      "columna": 10,
+      "tipo": "estante"
+    },
+    {
+      "fila": 4,
+      "columna": 14,
+      "tipo": "estante"
+    },
+    {
+      "fila": 4,
+      "columna": 19,
+      "tipo": "estante"
+    },
+    {
+      "fila": 4,
+      "columna": 20,
+      "tipo": "estante"
+    },
+    {
+      "fila": 4,
+      "columna": 21,
+      "tipo": "estante"
+    },
+    {
+      "fila": 4,
+      "columna": 22,
+      "tipo": "estante"
+    },
+    {
+      "fila": 4,
+      "columna": 24,
+      "tipo": "estante"
+    },
+    {
+      "fila": 4,
+      "columna": 25,
+      "tipo": "estante"
+    },
+    {
+      "fila": 4,
+      "columna": 28,
+      "tipo": "estante"
+    },
+    {
+      "fila": 4,
+      "columna": 29,
+      "tipo": "estante"
+    },
+    {
+      "fila": 5,
+      "columna": 4,
+      "tipo": "estante"
+    },
+    {
+      "fila": 5,
+      "columna": 5,
+      "tipo": "estante"
+    },
+    {
+      "fila": 5,
+      "columna": 9,
+      "tipo": "estante"
+    },
+    {
+      "fila": 5,
+      "columna": 10,
+      "tipo": "estante"
+    },
+    {
+      "fila": 5,
+      "columna": 14,
+      "tipo": "estante"
+    },
+    {
+      "fila": 5,
+      "columna": 19,
+      "tipo": "estante"
+    },
+    {
+      "fila": 5,
+      "columna": 20,
+      "tipo": "estante"
+    },
+    {
+      "fila": 5,
+      "columna": 24,
+      "tipo": "estante"
+    },
+    {
+      "fila": 5,
+      "columna": 25,
+      "tipo": "estante"
+    },
+    {
+      "fila": 6,
+      "columna": 4,
+      "tipo": "estante"
+    },
+    {
+      "fila": 6,
+      "columna": 5,
+      "tipo": "estante"
+    },
+    {
+      "fila": 6,
+      "columna": 9,
+      "tipo": "estante"
+    },
+    {
+      "fila": 6,
+      "columna": 10,
+      "tipo": "estante"
+    },
+    {
+      "fila": 6,
+      "columna": 14,
+      "tipo": "estante"
+    },
+    {
+      "fila": 6,
+      "columna": 19,
+      "tipo": "estante"
+    },
+    {
+      "fila": 6,
+      "columna": 20,
+      "tipo": "estante"
+    },
+    {
+      "fila": 6,
+      "columna": 24,
+      "tipo": "estante"
+    },
+    {
+      "fila": 6,
+      "columna": 25,
+      "tipo": "estante"
+    },
+    {
+      "fila": 10,
+      "columna": 4,
+      "tipo": "estante"
+    },
+    {
+      "fila": 10,
+      "columna": 5,
+      "tipo": "estante"
+    },
+    {
+      "fila": 10,
+      "columna": 9,
+      "tipo": "estante"
+    },
+    {
+      "fila": 10,
+      "columna": 10,
+      "tipo": "estante"
+    },
+    {
+      "fila": 10,
+      "columna": 14,
+      "tipo": "estante"
+    },
+    {
+      "fila": 10,
+      "columna": 19,
+      "tipo": "estante"
+    },
+    {
+      "fila": 10,
+      "columna": 20,
+      "tipo": "estante"
+    },
+    {
+      "fila": 10,
+      "columna": 24,
+      "tipo": "estante"
+    },
+    {
+      "fila": 10,
+      "columna": 25,
+      "tipo": "estante"
+    },
+    {
+      "fila": 11,
+      "columna": 4,
+      "tipo": "estante"
+    },
+    {
+      "fila": 11,
+      "columna": 5,
+      "tipo": "estante"
+    },
+    {
+      "fila": 11,
+      "columna": 9,
+      "tipo": "estante"
+    },
+    {
+      "fila": 11,
+      "columna": 10,
+      "tipo": "estante"
+    },
+    {
+      "fila": 11,
+      "columna": 14,
+      "tipo": "estante"
+    },
+    {
+      "fila": 11,
+      "columna": 19,
+      "tipo": "estante"
+    },
+    {
+      "fila": 11,
+      "columna": 20,
+      "tipo": "estante"
+    },
+    {
+      "fila": 11,
+      "columna": 24,
+      "tipo": "estante"
+    },
+    {
+      "fila": 11,
+      "columna": 25,
+      "tipo": "estante"
+    },
+    {
+      "fila": 15,
+      "columna": 4,
+      "tipo": "estante"
+    },
+    {
+      "fila": 15,
+      "columna": 5,
+      "tipo": "estante"
+    },
+    {
+      "fila": 15,
+      "columna": 7,
+      "tipo": "estante"
+    },
+    {
+      "fila": 15,
+      "columna": 8,
+      "tipo": "estante"
+    },
+    {
+      "fila": 15,
+      "columna": 9,
+      "tipo": "estante"
+    },
+    {
+      "fila": 15,
+      "columna": 10,
+      "tipo": "estante"
+    },
+    {
+      "fila": 15,
+      "columna": 14,
+      "tipo": "estante"
+    },
+    {
+      "fila": 15,
+      "columna": 19,
+      "tipo": "estante"
+    },
+    {
+      "fila": 15,
+      "columna": 20,
+      "tipo": "estante"
+    },
+    {
+      "fila": 15,
+      "columna": 21,
+      "tipo": "estante"
+    },
+    {
+      "fila": 15,
+      "columna": 22,
+      "tipo": "estante"
+    },
+    {
+      "fila": 15,
+      "columna": 24,
+      "tipo": "estante"
+    },
+    {
+      "fila": 15,
+      "columna": 25,
+      "tipo": "estante"
+    },
+    {
+      "fila": 15,
+      "columna": 28,
+      "tipo": "estante"
+    },
+    {
+      "fila": 15,
+      "columna": 29,
+      "tipo": "estante"
+    },
+    {
+      "fila": 16,
+      "columna": 4,
+      "tipo": "estante"
+    },
+    {
+      "fila": 16,
+      "columna": 5,
+      "tipo": "estante"
+    },
+    {
+      "fila": 16,
+      "columna": 7,
+      "tipo": "estante"
+    },
+    {
+      "fila": 16,
+      "columna": 8,
+      "tipo": "estante"
+    },
+    {
+      "fila": 16,
+      "columna": 9,
+      "tipo": "estante"
+    },
+    {
+      "fila": 16,
+      "columna": 10,
+      "tipo": "estante"
+    },
+    {
+      "fila": 16,
+      "columna": 14,
+      "tipo": "estante"
+    },
+    {
+      "fila": 16,
+      "columna": 19,
+      "tipo": "estante"
+    },
+    {
+      "fila": 16,
+      "columna": 20,
+      "tipo": "estante"
+    },
+    {
+      "fila": 16,
+      "columna": 21,
+      "tipo": "estante"
+    },
+    {
+      "fila": 16,
+      "columna": 22,
+      "tipo": "estante"
+    },
+    {
+      "fila": 16,
+      "columna": 24,
+      "tipo": "estante"
+    },
+    {
+      "fila": 16,
+      "columna": 25,
+      "tipo": "estante"
+    },
+    {
+      "fila": 16,
+      "columna": 28,
+      "tipo": "estante"
+    },
+    {
+      "fila": 16,
+      "columna": 29,
+      "tipo": "estante"
+    },
+    {
+      "fila": 17,
+      "columna": 4,
+      "tipo": "estante"
+    },
+    {
+      "fila": 17,
+      "columna": 5,
+      "tipo": "estante"
+    },
+    {
+      "fila": 17,
+      "columna": 9,
+      "tipo": "estante"
+    },
+    {
+      "fila": 17,
+      "columna": 10,
+      "tipo": "estante"
+    },
+    {
+      "fila": 17,
+      "columna": 14,
+      "tipo": "estante"
+    },
+    {
+      "fila": 17,
+      "columna": 19,
+      "tipo": "estante"
+    },
+    {
+      "fila": 17,
+      "columna": 20,
+      "tipo": "estante"
+    },
+    {
+      "fila": 17,
+      "columna": 24,
+      "tipo": "estante"
+    },
+    {
+      "fila": 17,
+      "columna": 25,
+      "tipo": "estante"
+    }
+  ],
+  "pasillos": [
+    {
+      "fila": 0,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 0,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 0,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 1,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 1,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 1,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 2,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 2,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 2,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 3,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 3,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 3,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 4,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 4,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 4,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 5,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 5,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 5,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 6,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 6,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 6,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 7,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 7,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 7,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 9,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 9,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 9,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 10,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 10,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 10,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 11,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 11,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 11,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 12,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 12,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 12,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 14,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 14,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 14,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 15,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 15,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 15,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 16,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 16,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 16,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 17,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 17,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 17,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 18,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 18,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 18,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 19,
+      "columna": 15,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 19,
+      "columna": 16,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 19,
+      "columna": 17,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 0,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 1,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 2,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 3,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 4,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 5,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 6,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 7,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 8,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 9,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 10,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 11,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 12,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 13,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 14,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 18,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 19,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 20,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 21,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 22,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 23,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 24,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 25,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 26,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 27,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 28,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 29,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 30,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 8,
+      "columna": 31,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 0,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 1,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 2,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 3,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 4,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 5,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 6,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 7,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 8,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 9,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 10,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 11,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 12,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 13,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 14,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 18,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 19,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 20,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 21,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 22,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 23,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 24,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 25,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 26,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 27,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 28,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 29,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 30,
+      "tipo": "pasillo"
+    },
+    {
+      "fila": 13,
+      "columna": 31,
+      "tipo": "pasillo"
+    }
+  ],
+  "descripcion": "Mapa generado (standard) con estantes tipo isla y pasillos centrales."
+}
